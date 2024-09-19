@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Aalemny",
   "resources": {
-    "hash": "sha256-gTC9c06nt5gp78qIIH11epezIPz8Subs+63EIMsL5kA=",
+    "hash": "sha256-zJMXkms7FJ9DnkIwA6XPDrnRpBXEzDcpBA3K3cz2HP4=",
     "jsModuleNative": {
       "dotnet.native.8.0.7.7ddl548oe6.js": "sha256-tFsxPBbhkdn6GKNBKvCRLzrfAHdyM86odYTe0MtrwMk="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-fLbZiSHBNdpHoh4EgRqMaNP5NQyIK5TEj6AXFLqo8m8=",
       "netstandard.wasm": "sha256-d4xbAE8qrKq5euUoZHPO+jkYPjlCYBzUew45MKsYKic=",
       "System.Private.CoreLib.wasm": "sha256-8yi6NcX1lkNQgV4WKjnMBYIZyKh4P+OXnXVQmgxGZD4=",
-      "Aalemny.wasm": "sha256-6wwa2Vt4Zu2yKMlo2gopybBxOw7AhFe0Z65GVfLba/U="
+      "Aalemny.wasm": "sha256-T0UAU12Zcr3wwnXeKkjWc6d08JiB0IK/nlQ+OHiEG84="
     },
     "pdb": {
-      "Aalemny.pdb": "sha256-8ii+/6+vRc1YxR48IjB9qdCsEzDN2PTdarJb7z3RJ0U="
+      "Aalemny.pdb": "sha256-hrw5aiiacadDqRweKHIEUfkq6I1QxdT7AeQOro36haI="
     }
   },
   "cacheBootResources": true,
