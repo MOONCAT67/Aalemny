@@ -1034,3 +1034,6 @@ C:\project\Aalemny\Aalemny\obj\Debug\net8.0\Aalemny.dll
 C:\project\Aalemny\Aalemny\obj\Debug\net8.0\refint\Aalemny.dll
 C:\project\Aalemny\Aalemny\obj\Debug\net8.0\Aalemny.pdb
 C:\project\Aalemny\Aalemny\obj\Debug\net8.0\ref\Aalemny.dll
+C:\Users\saif\projet_app\Aalemny\Aalemny\Aalemny\obj\Debug\net8.0\Aalemny.dll
+C:\Users\saif\projet_app\Aalemny\Aalemny\Aalemny\obj\Debug\net8.0\refint\Aalemny.dll
+C:\Users\saif\projet_app\Aalemny\Aalemny\Aalemny\obj\Debug\net8.0\Aalemny.pdb
